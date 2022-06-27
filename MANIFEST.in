@@ -1,0 +1,4 @@
+include *.txt
+recursive-include examples *.py
+recursive-include src *.py
+recursive-include tests *.py
