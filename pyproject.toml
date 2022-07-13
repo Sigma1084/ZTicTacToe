@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "zttt"
-version = "1.0.0"
+version = "1.0.1"
 description = "Simple, Standalone Tic Tac Toe Library"
 license = "MIT"
 authors = ["Sumanth NR <sumanthnr62@gmail.com>"]

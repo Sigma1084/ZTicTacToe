@@ -1,8 +1,3 @@
-def test_version():
-    from zttt import __version__
-    assert __version__ == '1.0.0'
-
-
 def test_basic_pvc_player_first():
     from zttt import PvC
     b = PvC(False)
