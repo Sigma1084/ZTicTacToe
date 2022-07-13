@@ -1,9 +1,6 @@
 from typing import Tuple, List
 from random import choice
 
-# from ZTTT.ZTBase.ZTBaseBoard import ZTBaseBoard
-# from ..ZTBase.ZTBaseBoard import ZTBaseBoard
-# from ..ZTBase.ZTErrors import *
 from src.ZTTT.ZTBase import *
 
 

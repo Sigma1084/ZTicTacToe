@@ -1,0 +1,30 @@
+[build-system]
+requires = ['setuptools']
+build-backend = 'setuptools.build_meta'
+
+[project]
+name = "ZTTT"
+description = "A Tic Tac Toe Library with a near perfect engine"
+readme = "README.md"
+requires-python = ">=3"
+keywords = ["TicTacToe"]
+license = { file="LICENSE.txt" }
+classifiers=[
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dynamic = ["version"]
+
+[project.urls]
+"Homepage" = "https://github.com/Sigma1084/ZTicTacToe"
+
+[tool.setuptools.packages.find]
+where = ["src"]  # list of folders that contain the packages (["."] by default)
+include = ["ZTTT*"]  # package names should match these glob patterns (["*"] by default)
+exclude = ["*.tests*"]  # exclude packages matching these glob patterns (empty by default)
+#namespaces = false  # to disable scanning PEP 420 namespaces (true by default)
+
+[tool.setuptools.dynamic]
+version = "0.1.0"
