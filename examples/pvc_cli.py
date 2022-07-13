@@ -1,13 +1,6 @@
-
-"""
-pvc_cli.py
-===========
-
-The following program is an example of how to use the PvC class of the zttt module.
-"""
+"""examples/pvc_cli.py"""
 
 
-# Example
 def main():
     from zttt import PvC
     from zttt.zt_errors import ZTInvalidInput, ZTError

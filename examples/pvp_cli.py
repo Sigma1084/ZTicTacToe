@@ -1,13 +1,6 @@
-
-"""
-pvp_cli.py
-===========
-
-The following program is an example of how to use the PvP class of the zttt module.
-"""
+"""examples/pvp_cli.py"""
 
 
-# Example
 def main():
     from zttt import PvP
     from zttt.zt_errors import ZTInvalidInput, ZTError

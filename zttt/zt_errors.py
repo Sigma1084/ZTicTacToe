@@ -1,7 +1,7 @@
 
 """
-zttt.zt_errors
-===============
+Module zttt.zt_errors
+======================
 
 The module contains the errors that can be raised by the zttt package.
 """

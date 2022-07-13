@@ -1,9 +1,8 @@
 
 .. _zttt_main:
 
-zttt Documentation
-===================
-Welcome to zttt's documentation!
+Welcome to ZTicTacToe's Documentation
+=======================================
 
 Tic Tac Toe is a famous game in which two players take turns placing
 a mark on a 3x3 grid. The first player to get three in a row wins.
@@ -45,7 +44,15 @@ Installation
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
+   :titlesonly:
+
+   Welcome <https://ztictactoe.readthedocs.io/en/latest/index.html>
+   PyPi <https://pypi.org/project/zttt/>
+   GitHub <https://github.com/Sigma1084/ZTicTacToe>
+
+.. toctree::
+   :maxdepth: 2
    :caption: Contents
 
    src/modules

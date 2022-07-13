@@ -1,13 +1,6 @@
-
-"""
-pvp_random_moves.py
-====================
-
-The following program is a simple example of how to use the PvP class of the zttt module.
-"""
+"""examples/pvp_random_moves.py"""
 
 
-# Example
 def main():
     from zttt import PvP
     from random import choice

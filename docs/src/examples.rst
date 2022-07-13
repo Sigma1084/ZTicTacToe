@@ -1,16 +1,19 @@
-zttt examples
-==============
+Examples
+==========
 
 The examples can also be found in examples folder in the github repository.
 
-.. include:: ../../examples/pvp_random_moves.py
-   :start-after: # Example
-   :code: python
+PvP Random Moves
+-----------------
+.. literalinclude:: ../../examples/pvp_random_moves.py
+   :language: python
 
-.. include:: ../../examples/pvp_cli.py
-   :start-after: # Example
-   :code: python
+PvP CLI
+--------
+.. literalinclude:: ../../examples/pvp_cli.py
+   :language: python
 
-.. include:: ../../examples/pvc_cli.py
-   :start-after: # Example
-   :code: python
+PvC CLI
+--------
+.. literalinclude:: ../../examples/pvc_cli.py
+   :language: python

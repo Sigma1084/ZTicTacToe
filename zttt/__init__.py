@@ -1,8 +1,8 @@
 
 """
 
-zttt
-======
+Module zttt
+============
 
 The module contains 2 main classes
 Both the classes inherit from the ZTBaseBoard class.

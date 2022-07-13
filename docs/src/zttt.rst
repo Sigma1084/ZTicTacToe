@@ -1,6 +1,3 @@
-Modules API Reference
-======================
-
 .. automodule:: zttt
    :members:
    :undoc-members:
