@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "zttt"
+version = "1.0.0"
+description = "Simple, Standalone Tic Tac Toe Library"
+license = "MIT"
+authors = ["Sumanth NR <sumanthnr62@gmail.com>"]
+readme = "README.rst"
+homepage = "https://zttt.readthedocs.io/en/latest/index.html"
+repository = "https://github.com/Sigma1084/zttt"
+documentation = "https://zttt.readthedocs.io/en/latest/index.html"
+keywords = ["Tic Tac Toe", "X O", "poetry", "sphinx"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
