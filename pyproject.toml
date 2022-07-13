@@ -5,10 +5,10 @@ description = "Simple, Standalone Tic Tac Toe Library"
 license = "MIT"
 authors = ["Sumanth NR <sumanthnr62@gmail.com>"]
 readme = "README.rst"
-homepage = "https://ztictactoe.readthedocs.io/en/latest/index.html"
+homepage = "https://ztictactoe.readthedocs.io/en/latest/"
 repository = "https://github.com/Sigma1084/zttt"
-documentation = "https://ztictactoe.readthedocs.io/en/latest/index.html"
-keywords = ["Tic Tac Toe", "X O", "poetry", "sphinx"]
+documentation = "https://ztictactoe.readthedocs.io/en/v1/"
+keywords = ["ZTTT", "TTT", "Tic Tac Toe", "X-O", "poetry", "sphinx"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
