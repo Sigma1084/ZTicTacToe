@@ -30,8 +30,8 @@ Features
 Links
 ------
 - `PyPI <https://pypi.python.org/pypi/zttt>`_
-- `GitHub <https://github.com/Sigma1084/ZTicTacToe>`_
-- `Documentation <http://ztictactoe.readthedocs.io/en/latest/index.html>`_
+- `GitHub <https://github.com/Sigma1084/ZTicTacToe/tree/v1>`_
+- `Documentation <https://ztictactoe.readthedocs.io/en/v1/>`_
 
 
 .. _zttt_install:
